@@ -3,6 +3,7 @@
 }
 .navbar-default {
     background-color: rgba(245, 245, 220, .7);
+    
     border-color: rgba(245, 245, 220, .6);
     box-shadow: 0px 3px 3px 0px #ddd;
 }
