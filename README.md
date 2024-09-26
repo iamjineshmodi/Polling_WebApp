@@ -1,6 +1,15 @@
 # Project Title
 
-A brief description of your project, its purpose, and key features.
+This project is a polling application that allows users to create and participate in public polls. It enables users to vote on various topics, view poll results, and manage their accounts, making it a comprehensive platform for gathering public opinion.
+
+## Key Features
+
+- Create new polls with customizable options.
+- Vote in public polls and see live results.
+- User registration and login for account management.
+- View past poll results for insights.
+- User-friendly interface for easy navigation.
+
 
 ## Images
 
