@@ -1,4 +1,4 @@
-# Project Title
+# Polling WebApp
 
 This project is a polling application that allows users to create and participate in public polls. It enables users to vote on various topics, view poll results, and manage their accounts, making it a comprehensive platform for gathering public opinion.
 
